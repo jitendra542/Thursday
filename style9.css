@@ -8,6 +8,10 @@ body{
            justify-content: center;
            align-items: center;
 }
+
+h1{
+    margin-bottom: -50px;
+}
 .container{
 
             height: 40rem;
